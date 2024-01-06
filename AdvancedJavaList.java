@@ -1,5 +1,3 @@
-package Cop2085;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;
